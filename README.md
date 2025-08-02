@@ -26,16 +26,16 @@ Everything is neatly tucked away using a meticulous directory structure because.
 
 ### Directory Structure
 📂 https://github.com/AI-Artisans/bda_cs41s1 <br>
-&nbsp;&nbsp;&nbsp;|- 📂 Main&nbsp;&nbsp;<span style="color:gray"><i>&lt;-- branch</i></span><br>
-&nbsp;&nbsp;&nbsp;|- 📂 [Name in LastNameFNMI]&nbsp;&nbsp;<span style="color:gray"><i>&lt;-- branch</i></span><br>
+&nbsp;&nbsp;&nbsp;|- 📂 Main&nbsp;&nbsp;<span style="color:#C2C0C0"><i>&lt;-- branch</i></span><br>
+&nbsp;&nbsp;&nbsp;|- 📂 [Name in LastNameFNMI]&nbsp;&nbsp;<span style="color:#C2C0C0"><i>&lt;-- branch</i></span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- 📂 LAB-[LaboratoryDate: yyyymmdd]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- 📂 final-project<br>
 &nbsp;&nbsp;&nbsp;|- 📂 Tags<br>
 
 ### Example:
 📂 https://github.com/AI-Artisans/bda_cs41s1 <br>
-&nbsp;&nbsp;&nbsp;|- 📂 Main&nbsp;&nbsp;<-- branch<br>
-&nbsp;&nbsp;&nbsp;|- 📂 DelaCruzJTI&nbsp;&nbsp;<-- branch<br>
+&nbsp;&nbsp;&nbsp;|- 📂 Main<br>
+&nbsp;&nbsp;&nbsp;|- 📂 DelaCruzJTI<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- 📂 LAB-LAB-20250809<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- 📂 final-project<br>
 
