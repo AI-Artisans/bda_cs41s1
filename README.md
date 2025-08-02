@@ -22,9 +22,36 @@ But hey, that’s what makes it fun. Right? Right?!
 
 ## 📂 Folder Structure (Probably)
 
-(TBA)
+Everything is neatly tucked away using a meticulous directory structure because...we’re professionals like that:
 
+### Directory Structure
+📂 https://github.com/AI-Artisans/bda_cs41s1 <br>
+&nbsp;&nbsp;&nbsp;|- 📂 Main&nbsp;&nbsp;<-- branch<br>
+&nbsp;&nbsp;&nbsp;|- 📂 [Name in LastNameFNMI]&nbsp;&nbsp;<-- branch<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- 📂 LAB-[LaboratoryDate: yyyymmdd]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- 📂 final-project<br>
+&nbsp;&nbsp;&nbsp;|- 📂 Tags<br>
 
+### Example:
+📂 https://github.com/AI-Artisans/bda_cs41s1 <br>
+&nbsp;&nbsp;&nbsp;|- 📂 Main&nbsp;&nbsp;<-- branch<br>
+&nbsp;&nbsp;&nbsp;|- 📂 DelaCruzJTI&nbsp;&nbsp;<-- branch<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- 📂 LAB-LAB-20250809<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- 📂 final-project<br>
+
+### Naming Conventions:
+1. Each student must create their own GitHub branch using the naming convention:
+   **[Last Name][First Name Initial][Middle Initial]**
+   _(E.g., `DelaCruzJTI` for Juan Tamad Inantok Dela Cruz)._
+
+2. **Laboratory Submissions**:
+   - Inside your branch, create a new folder for each laboratory session with the format:
+     **`LAB-[yyyymmdd]`**
+     _(E.g., `LAB-20250809` for the lab session on August 9, 2025)._
+
+3. **Final Project Submission**:
+   - Your final project should be added inside the `final-project/` folder within your branch. 
+   - Use a separate branch name for project submission, as instructed later in the course.
 
 Note: Folder names subject to change due to panic, typos, or last-minute professor updates. 😅
 
