@@ -59,7 +59,7 @@ Note: Folder names subject to change due to panic, typos, or last-minute profess
 
 ## 🛠️ How To Contribute (Because Sharing is Scaring)
 
-# 🧙‍♂️ Welcome to the BDA-CS41S1 Chaosverse!  
+### 🧙‍♂️ Welcome to the BDA-CS41S1 Chaosverse!  
 
 Because sharing isn’t just caring — it’s mildly terrifying and may involve summoning Git demons. If you’re reading this, congratulations: you’ve chosen the path of bravery (or confusion). Either way, here’s your scroll of instructions to enter the sacred realm of contribution.
 
