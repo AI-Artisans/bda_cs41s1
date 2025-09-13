@@ -36,7 +36,7 @@ Everything is neatly tucked away using a meticulous directory structure because.
 📂 https://github.com/AI-Artisans/bda_cs41s1 <br>
 &nbsp;&nbsp;&nbsp;|- 📂 Main<br>
 &nbsp;&nbsp;&nbsp;|- 📂 DelaCruzJTI<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- 📂 LAB-LAB-20250809<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- 📂 LAB-20250809<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- 📂 final-project<br>
 
 ### Naming Conventions:
@@ -57,13 +57,42 @@ Note: Folder names subject to change due to panic, typos, or last-minute profess
 
 ---
 
-## 🛠️ How To Contribute (Because Sharing is Scaring)
+### 🛠️ How To Contribute (Because Sharing is Scaring)
 
-1. Fork it like it's hot 🍴  
-2. Clone your fork `git clone https://github.com/you/big-data-madness.git`
-3. Create a branch `git checkout -b i-did-the-lab-finally`
-4. Commit like a legend `git commit -m "Lab 1 done, send snacks"`
-5. Push and make a PR (prayer request) 🙏
+#### 🧙‍♂️ Welcome to the BDA-CS41S1 Chaosverse!  
+
+Because sharing isn’t just caring — it’s mildly terrifying and may involve summoning Git demons. If you’re reading this, congratulations: you’ve chosen the path of bravery (or confusion). Either way, here’s your scroll of instructions to enter the sacred realm of contribution.
+
+First, you must **clone** the sacred code to your lair — this is the digital equivalent of stealing a spellbook and promising to return it:  
+`git clone https://github.com/AI-Artisans/bda_cs41s1.git`
+
+Then, **spy on the remote branches**, because knowing is half the battle (the other half is debugging):  
+`git branch -r`
+
+Next, **switch to the MatangSisiw branch**, the all-seeing chick that holds all truth (and code):  
+`git switch origin/MatangSisiw`  
+*If your Git throws a tantrum and refuses to switch like a moody teenager, try:*  
+`git checkout origin/MatangSisiw`
+
+Once inside the nest, **pull the latest changes** — freshly hatched updates await:  
+`git pull origin/MatangSisiw`
+
+Now it’s time to **check your status** like a sneaky ninja monitoring footprints in the sand:  
+`git status`
+
+Then, bravely **stage all your changes**, even the ones you forgot existed:  
+`git add .`
+
+Now comes the sacred ritual of **commitment** — declare your intentions to the Git gods (and future devs):  
+`git commit -m "Trying to send my nothing-ness."`
+
+Finally, **push it to the branch** and pray the CI/CD spirits are in your favor:  
+`git push origin/MatangSisiw`
+
+🎉 You’ve done it! You’ve contributed to the Madness. Take a break, drink some water, write your autobiography, or stare into the void while questioning life choices. And remember:
+
+_"With great Git comes great commit messages."_  
+🪄 *Made with typos, hope, and caffeine.*
 
 ---
 
