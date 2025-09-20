@@ -1,0 +1,38 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Explicitly declare text files you want normalized and treated as UTF-8
+*.c      text
+*.cpp    text
+*.h      text
+*.java   text
+*.js     text
+*.ts     text
+*.jsx    text
+*.tsx    text
+*.html   text
+*.css    text
+*.scss   text
+*.json   text
+*.yml    text
+*.yaml   text
+*.md     text
+*.txt    text
+*.xml    text
+*.arff   text
+*.sh     text eol=lf
+*.py     text eol=lf
+*.php    text eol=lf
+
+# Treat binary files as binary (no line ending conversion)
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.gif    binary
+*.ico    binary
+*.pdf    binary
+*.zip    binary
+*.gz     binary
+*.mp4    binary
+*.mov    binary
+*.exe    binary
