@@ -1,0 +1,2 @@
+ALTER TABLE datasetwk11_cleaned
+DROP COLUMN connected_handling_time;
