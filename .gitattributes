@@ -36,3 +36,4 @@
 *.mp4    binary
 *.mov    binary
 *.exe    binary
+*.csv    binary
