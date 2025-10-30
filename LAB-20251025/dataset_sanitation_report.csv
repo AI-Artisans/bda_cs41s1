@@ -1,0 +1,29 @@
+Column,Data Type,Unique Values,Missing,Empty Strings,Case Inconsistent,Rare Categories (<1%),Top 5 Values
+Timestamp,object,39997,0,0,False,0,2022-04-17 20:05:34: 2; 2022-06-11 14:28:15: 2; 2022-06-06 12:12:43: 2; 2023-06-27 11:02:56: 1; 2021-08-15 22:29:04: 1
+Source IP Address,object,40000,0,0,False,0,103.216.15.12: 1; 78.199.217.198: 1; 63.79.210.48: 1; 163.42.196.10: 1; 71.166.185.76: 1
+Destination IP Address,object,40000,0,0,False,0,84.9.164.252: 1; 66.191.137.154: 1; 198.219.82.17: 1; 101.228.192.255: 1; 189.243.174.238: 1
+Source Port,int64,29761,0,0,False,0,41341: 6; 37135: 5; 4128: 5; 16784: 5; 4779: 5
+Destination Port,int64,29895,0,0,False,0,34117: 6; 7508: 6; 39887: 5; 59207: 5; 6871: 5
+Protocol,object,3,0,0,False,0,ICMP: 13429; UDP: 13299; TCP: 13272
+Packet Length,int64,1437,0,0,False,1437,1037: 47; 1278: 45; 104: 45; 855: 44; 1361: 44
+Packet Type,object,2,0,0,False,0,Control: 20237; Data: 19763
+Traffic Type,object,3,0,0,False,0,DNS: 13376; HTTP: 13360; FTP: 13264
+Payload Data,object,40000,0,0,False,0,"Qui natus odio asperiores nam. Optio nobis iusto accusamus ad perferendis esse at. Asperiores neque at ad.
+Maiores possimus ipsum saepe vitae. Ad possimus veritatis.: 1; Aperiam quos modi officiis veritatis rem. Omnis nulla dolore perspiciatis.
+Illo animi mollitia vero voluptates error ad. Quidem maxime eaque optio a. Consectetur quasi veniam et totam culpa ullam.: 1; Perferendis sapiente vitae soluta. Hic delectus quae nemo ea esse est rerum.: 1; Totam maxime beatae expedita explicabo porro labore. Minima ab fugit officiis dicta perspiciatis pariatur. Facilis voluptates eligendi dolores eveniet deserunt. Eveniet reprehenderit culpa quo.: 1; Odit nesciunt dolorem nisi iste iusto. Animi voluptates soluta quis doloribus quas. Iure harum nihil hic illo repellendus.
+Quia illo fugit eligendi doloremque. In doloremque autem iure.: 1"
+Malware Indicators,object,1,20000,0,False,0,IoC Detected: 20000; nan: 20000
+Anomaly Scores,float64,9826,0,0,False,9826,93.76: 12; 57.18: 12; 15.39: 12; 56.92: 12; 28.67: 12
+Alerts/Warnings,object,1,20067,0,False,0,nan: 20067; Alert Triggered: 19933
+Attack Type,object,3,0,0,False,0,DDoS: 13428; Malware: 13307; Intrusion: 13265
+Attack Signature,object,2,0,0,False,0,Known Pattern A: 20076; Known Pattern B: 19924
+Action Taken,object,3,0,0,False,0,Blocked: 13529; Ignored: 13276; Logged: 13195
+Severity Level,object,3,0,0,False,0,Medium: 13435; High: 13382; Low: 13183
+User Information,object,32389,0,0,False,0,Heer Lad: 6; Ishaan Chaudhari: 6; Akarsh Tripathi: 5; Ishita Chaudry: 5; Aradhya Chaudhry: 5
+Device Information,object,32104,0,0,False,0,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/3.0): 35; Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/4.1): 34; Mozilla/5.0 (compatible; MSIE 6.0; Windows CE; Trident/4.0): 33; Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/3.0): 31; Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/4.1): 31
+Network Segment,object,3,0,0,False,0,Segment C: 13408; Segment B: 13319; Segment A: 13273
+Geo-location Data,object,8723,0,0,False,8723,"Ghaziabad, Meghalaya: 16; Kalyan-Dombivli, Jharkhand: 15; Ghaziabad, Uttarakhand: 14; Ghaziabad, Tripura: 14; Motihari, Odisha: 13"
+Proxy Information,object,20148,19851,0,False,0,nan: 19851; 39.123.165.122: 2; 95.170.137.42: 1; 168.36.131.43: 1; 133.37.66.26: 1
+Firewall Logs,object,1,19961,0,False,0,Log Data: 20039; nan: 19961
+IDS/IPS Alerts,object,1,20050,0,False,0,nan: 20050; Alert Data: 19950
+Log Source,object,2,0,0,False,0,Firewall: 20116; Server: 19884
