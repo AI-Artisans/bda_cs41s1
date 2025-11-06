@@ -37,3 +37,4 @@
 *.mov    binary
 *.exe    binary
 *.csv    binary
+*.arff   binary
