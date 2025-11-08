@@ -1,0 +1,17 @@
+@RELATION loan_data
+
+@ATTRIBUTE age NUMERIC
+@ATTRIBUTE gender {Male,Female}
+@ATTRIBUTE occupation {Engineer,Teacher,Student,Manager,Accountant,Nurse,Lawyer,Artist,IT,Doctor,Consultant,Analyst,Salesman,Marketing,Architect,Designer,Pharmacist,Researcher,Professor,Pilot,Receptionist,Banker,Writer,Chef,Veterinarian,Sales,HR,Electrician,Realtor,Photographer,Editor,Programmer,Dentist,Musician,Psychologist,Server,Software,Stylist}
+@ATTRIBUTE education_level {"High School","Associate's","Bachelor's","Master's",Doctoral}
+@ATTRIBUTE marital_status {Married,Single}
+@ATTRIBUTE income NUMERIC
+@ATTRIBUTE credit_score NUMERIC
+@ATTRIBUTE loan_status {Approved,Denied}
+
+@DATA
+24,Female,Nurse,"Associate's",Single,48000,640,?
+42,Male,Lawyer,Doctoral,Married,120000,790,?
+29,Female,Artist,"Bachelor's",Single,38000,620,?
+55,Male,Consultant,"Master's",Married,110000,770,?
+26,Male,Salesman,"High School",Single,42000,610,?
